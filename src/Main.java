@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        // Задание 1
+        // Homework №4 Задание 1
         int clientOS = 1;
         if (clientOS == 0) {
             System.out.println("1. Установите версию для приложения для iOS по ссылке");
