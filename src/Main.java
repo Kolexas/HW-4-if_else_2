@@ -34,7 +34,7 @@ public class Main {
                 System.out.println(year + " год не является высокосным");
             }
             // Задание 4
-            int deliveryDistance = 95;
+            int deliveryDistance = 20;
             int deliveryTime = 1;
             if (deliveryDistance > 100) {
                 System.out.print("Доставка невозможна");
